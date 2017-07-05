@@ -1,0 +1,1 @@
+Valmiiksi luotu kansio lähtödataa varten.

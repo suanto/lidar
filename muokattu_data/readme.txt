@@ -1,0 +1,1 @@
+Valmiiksi luotu hakemisto tulosjoukkoa varten.
